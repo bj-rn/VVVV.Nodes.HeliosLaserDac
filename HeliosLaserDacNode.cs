@@ -27,10 +27,8 @@
 
 //use what you need
 using System;
-using System.Drawing;
 using VVVV.PluginInterfaces.V1;
 using VVVV.Utils.VColor;
-using VVVV.Utils.VMath;
 
 using HeliosDac;
 
