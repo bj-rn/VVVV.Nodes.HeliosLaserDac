@@ -1,0 +1,1 @@
+The Helios libraries depend on libusb. Library binary included here for convenience, but you can also acquire it from Libusb directly: https://sourceforge.net/projects/libusb/files/libusb-1.0/libusb-1.0.26/
